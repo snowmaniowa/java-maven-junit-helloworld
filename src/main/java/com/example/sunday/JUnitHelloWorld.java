@@ -2,7 +2,7 @@ package com.example.sunday;
 
 public class JUnitHelloWorld {
 
-    public boolean isGreater(int num1, int num2) {
-        return num1 > num2;
+    public boolean isGreater(int num10, int num20) {
+        return num10 > num20;
     }
 }
